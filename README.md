@@ -1,2 +1,2 @@
-# ML-Linear_Regression
+# ML-LinearRegression
 Machine Learning Linear Regression
